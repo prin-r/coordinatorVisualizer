@@ -1,4 +1,4 @@
-# Band Protocol's UI Bootstrapper
+# UI Bootstrapper
 
 [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
 
@@ -40,5 +40,3 @@ yarn build
 ```
 
 ## Contribution
-
-For now only core team can contribute and deploy the code to https://bandprotocol.com. However, please feel free to open issues at anytime or email us at dev@bandprotocol.com
