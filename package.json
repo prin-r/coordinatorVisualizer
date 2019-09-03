@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap",
+  "name": "coordinator_visualizer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
