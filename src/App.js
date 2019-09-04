@@ -11,7 +11,7 @@ export default class App extends Component {
     return (
       <Router>
         <Switch>
-          <Route exact path="/" component={LandingPage} />
+          <Route exact path="/:id" component={LandingPage} />
           <Route path="/" component={NotFoundPage} />
         </Switch>
       </Router>
